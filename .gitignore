@@ -1,0 +1,5 @@
+.idea
+node_modules
+request.http
+bookshelf-api-webserver.pem
+BookshelfAPITestCollectionAndEnvironment
